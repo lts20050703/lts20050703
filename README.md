@@ -1,5 +1,5 @@
-[![](https://badgen.net/badge/Version/2021.09.20.0/green)](https://calver.org)
-[![](https://badgen.net/badge/bot/2021.09.20.0/green)](https://github.com/lts372005/bot)
+[![](https://badgen.net/badge/Version/2021.09.20.2/green)](https://calver.org)
+[![](https://badgen.net/badge/bot/2021.09.20.2/green)](https://github.com/lts372005/bot)
 [![](https://badgen.net/badge/Projects/2021.09.17.0/green)](https://github.com/lts372005/Projects)
 [![](https://badgen.net/badge/WinFormsHelper/2021.09.17.0/green)](https://github.com/lts372005/WinFormsHelper)
 [![](https://badgen.net/badge/LICENSE/MIT)](LICENSE)
