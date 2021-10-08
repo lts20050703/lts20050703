@@ -4,9 +4,9 @@ const superior: { [inferior: string]: string } = {
 	nodejs: "deno",
 	discordjs: "discordeno",
 	javascript: "typescript",
+	camel_case: "snake_case",
 	single_quotes: "double_quotes",
-	semicolons: "auto_semicolons_insertion",
-	camel_case: "snake_case"
+	semicolons: "auto_semicolons_insertion"
 }
 ```
 
