@@ -1,3 +1,5 @@
+maybe, just maybe, you can find me in denoland/deno and denoland/deno_lint
+
 ```ts
 const superior: { [inferior: string]: string } = {
 	spaces: "tabs",
