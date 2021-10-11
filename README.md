@@ -1,4 +1,6 @@
-maybe, just maybe, you can find me in denoland/deno and denoland/deno_lint
+Maybe, just maybe, you can find me in https://github.com/denoland/deno and https://github.com/denoland/deno_lint
+
+You can already find me using https://deno.land and https://discordeno.mod.land in https://github.com/lts372005/bot, https://github.com/lts372005/torturer, and https://github.com/lts372005/discordeno-kingdoms
 
 ```ts
 const superior: { [inferior: string]: string } = {
