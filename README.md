@@ -1,22 +1,4 @@
-![](https://badgen.net/badge/Version/2021.10.12.0/green)
-
-You might found me in
-
-- [![](https://badgen.net/badge/denoland/deno)](https://github.com/denoland/deno)
-- [![](https://badgen.net/badge/denoland/deno_lint)](https://github.com/denoland/deno_lint)
-- [![](https://badgen.net/badge/discordeno/discordeno)](https://github.com/discordeno/discordeno)
-
-You will find me using
-
-- [![](https://badgen.net/badge/denoland/deno)](https://github.com/denoland/deno)
-- [![](https://badgen.net/badge/discordeno/discordeno)](https://github.com/discordeno/discordeno)
-- [![](https://badgen.net/badge/microsoft/typescripts)](https://github.commicrosoft/TypeScript)
-
-in
-
-- [![](https://badgen.net/badge/lts372005/bot/green)](https://github.com/lts372005/bot)
-- [![](https://badgen.net/badge/lts372005/torturer/green)](https://github.com/lts372005/torturer)
-- [![](https://badgen.net/badge/lts372005/discordeno-kingdoms/green)](https://github.com/lts372005/discordeno-kingdoms)
+[![](https://badgen.net/badge/lts372005/2021.10.12.1/green)](https://calver.org) [![](https://badgen.net/badge/bot/2021.10.12.1/green)](https://github.com/lts372005/bot) [![](https://badgen.net/badge/torturer/02021.10.12.1/green)](https://github.com/lts372005/torturer) [![](https://badgen.net/badge/discordeno-kingdoms/2021.10.12.0/green)](https://github.com/lts372005/discordeno-kingdoms)
 
 ```ts
 const superior: { [inferior: string]: string } = {
