@@ -1,4 +1,4 @@
-[![](https://badgen.net/badge/lts372005/2021.10.12.1/green)](https://calver.org) [![](https://badgen.net/badge/bot/2021.10.12.1/green)](https://github.com/lts372005/bot) [![](https://badgen.net/badge/torturer/02021.10.12.1/green)](https://github.com/lts372005/torturer) [![](https://badgen.net/badge/discordeno-kingdoms/2021.10.12.0/green)](https://github.com/lts372005/discordeno-kingdoms)
+[![](https://badgen.net/badge/lts372005/2021.10.12.1/green)](https://calver.org) [![](https://badgen.net/badge/bot/2021.10.12.1/green)](https://github.com/lts372005/bot) [![](https://badgen.net/badge/torturer/02021.10.12.1/green)](https://github.com/lts372005/torturer) [![](https://badgen.net/badge/discordeno-kingdoms/2021.10.12.1/green)](https://github.com/lts372005/discordeno-kingdoms)
 
 ```ts
 const superior: { [inferior: string]: string } = {
