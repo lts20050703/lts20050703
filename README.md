@@ -4,7 +4,7 @@ You might found me in
 
 - [![](https://badgen.net/badge/denoland/deno)](https://github.com/denoland/deno)
 - [![](https://badgen.net/badge/denoland/deno_lint)](https://github.com/denoland/deno_lint)
-- [![](https://badgen.net/badge/mwittrien/BetterDiscordAddons)](https://github.com/mwittrien/BetterDiscordAddons)
+- [![](https://badgen.net/badge/discordeno/discordeno)](https://github.com/discordeno/discordeno)
 
 You will find me using
 
