@@ -1,5 +1,5 @@
 [![](https://badgen.net/badge/license/MIT/0f0)](LICENSE)
-[![](https://badgen.net/badge/version/2021.10.22.0/0f0)](https://calver.org)
+[![](https://badgen.net/badge/version/2021.10.28.0/0f0)](https://calver.org)
 [![](https://badgen.net/badge/calver/YYYY.MM.DD.MICRO/0f0)](https://calver.org)
 [![](https://badgen.net/badge/versioning/calendar_versioning/0f0)](https://calver.org)
 
