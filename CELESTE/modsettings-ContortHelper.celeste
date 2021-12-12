@@ -1,0 +1,11 @@
+BurstEffects: All
+CustomEffects: All
+GlitchEffects: All
+AnxietyEffects: All
+FlashEffects: All
+FreezeEffects: All
+ShakeEffects: All
+RumbleEffects: All
+WipeEffects: All
+LightningEffects: All
+RuntimeEffects: []

@@ -1,0 +1,83 @@
+DebugModeInEverest: true
+LaunchWithFMODLiveUpdateInEverest: false
+LaunchWithoutIntro: false
+ShowModOptionsInGame: true
+TitleScreenType: everest
+LazyLoading_Yes_I_Know_This_Can_Cause_Bugs: false
+DefaultStartingLevelSet: Celeste
+LogHistoryCountToKeep: 3
+ThreadedGL: 
+FastTextureLoading: 
+FastTextureLoadingMaxMB: 0
+UnpackFMODBanks: true
+UnloadUnusedAudio: true
+DisableAntiSoftlock: false
+MultithreadedGC: 
+RestartAppDomain_WIP: false
+MaxSaveSlots: 
+ExtraCommandHistoryLines: 50
+SaveDataFlush: 
+InputGui: ''
+MainMenuMode: ''
+UseKeyboardForTextInput: true
+AutoUpdateModsOnStartup: true
+WarnOnEverestYamlErrors: false
+DiscordRichPresence: true
+DiscordLib: ''
+DiscordID: ''
+DiscordTextInMenu: "\U0001F4CB Menu"
+DiscordTextInGame: "\U0001F5FB ((area)) \U0001F4FC ((side))"
+DiscordSubtextInGame: "((deaths)) x \U0001F480 | ((strawberries)) x \U0001F353"
+DebugRCPort: 32270
+QuickRestart: 
+ShowManualTextOnDebugMap: true
+CodeReload_WIP: false
+CurrentVersion: 1.3180.0
+CurrentBranch: dev
+LogLevels: {}
+MenuPageUp:
+  Buttons: []
+  Keys: []
+MenuPageDown:
+  Buttons: []
+  Keys: []
+DebugConsole:
+  Buttons: []
+  Keys:
+  - OemPeriod
+CameraForward:
+  Buttons: []
+  Keys:
+  - W
+CameraBackward:
+  Buttons: []
+  Keys:
+  - S
+CameraRight:
+  Buttons: []
+  Keys:
+  - D
+CameraLeft:
+  Buttons: []
+  Keys:
+  - A
+CameraUp:
+  Buttons: []
+  Keys:
+  - Q
+CameraDown:
+  Buttons: []
+  Keys:
+  - Z
+CameraSlow:
+  Buttons: []
+  Keys:
+  - LeftShift
+CameraPrint:
+  Buttons: []
+  Keys:
+  - P
+ToggleMountainFreeCam:
+  Buttons: []
+  Keys:
+  - Space
