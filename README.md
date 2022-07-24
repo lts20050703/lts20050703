@@ -1,5 +1,24 @@
-<https://lts20050703.github.io>
+Note: we encourage you to add the below to your existing `README.md` on your GitHub project.
 
-[![](https://github-readme-stats.vercel.app/api?username=lts20050703&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+== We're Using GitHub Under Protest ==
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=lts20050703&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+This project is currently hosted on GitHub.  This is not ideal; GitHub is a
+proprietary, trade-secret system that is not Free and Open Souce Software
+(FOSS).  We are deeply concerned about using a proprietary system like GitHub
+to develop our FOSS project.  We have an
+[open {bug ticket, mailing list thread, etc.} ](INSERT_LINK) where the
+project contributors are actively discussing how we can move away from GitHub
+in the long term.  We urge you to read about the
+[Give up GitHub](https://GiveUpGitHub.org) campaign from
+[the Software Freedom Conservancy](https://sfconservancy.org) to understand
+some of the reasons why GitHub is not a good place to host FOSS projects.
+
+If you are a contributor who personally has already quit using GitHub, please
+[check this resource](INSERT_LINK) for how to send us contributions without
+using GitHub directly.
+
+Any use of this project's code by GitHub Copilot, past or present, is done
+without our permission.  We do not consent to GitHub's use of this project's
+code in Copilot.
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
